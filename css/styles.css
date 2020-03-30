@@ -1,0 +1,97 @@
+.navbar-home {
+    background-color: #ffffff;
+    border-bottom: none;
+}
+
+.navbar-right {
+    align-self: end;
+    padding-top: 15px;
+    margin-right: 100px;
+    font-weight: bold;
+    color: #777777;
+    font-size: 18px;
+}
+.navbar-right1 {
+    align-self: end;
+    padding-top: 15px;
+    margin-right: 150px;
+    font-weight: bold;
+    color: #777777;
+    font-size: 18px;
+}
+
+.Nav-button {
+    margin-top: -10px;
+    margin-left: -70px;
+}
+
+.Nav-button1 {
+    margin-top: 20px;
+    margin-left: -70px;
+}
+
+.Nav-buttons {
+    margin: 2px;
+    border-radius: 70%;
+    height: 45px;
+    width: 45px;
+    background-color: rgb(191, 250, 168);
+}
+
+.STAR {
+    height: 45px;
+    width: 50px;
+    font-weight: bold;
+}
+
+.LOGO {
+    margin-left: 45px;
+}
+
+.MAINCOL {
+    margin-bottom: 50px;
+}
+
+
+.THUMB {
+    border: 0px;
+    padding: 0px;
+}
+.THUMBBUT {
+    width: 100%;
+    color: #ffffff;
+    background-color: black;
+    border: 0px;
+    height: 40px;
+    padding: 0px;
+   
+}
+img {
+    padding: 9px;
+}
+
+.onpic {
+    width: 90px;
+    height: 30px;
+    margin-left: 114px;
+    margin-top:10px;
+    background-color: black;
+    color: rgb(211, 203, 203);
+    position: absolute;
+    padding: 2px;
+    
+}
+
+.CAPTION {
+    padding: 0px;
+}
+
+h6 {
+    text-align: center;
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+h4 {
+    text-align: center;
+    color: black;
+}

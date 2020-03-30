@@ -1,0 +1,83 @@
+.first {
+    height: 50px;
+}
+
+.DROP {
+    margin-top: 20px;
+}
+
+.BUTTON {
+    width: 150px;
+    
+}
+
+.butbut {
+    border-radius: 50px;
+    width: 45px;
+    margin: 1px;
+    background-color: rgb(223, 250, 236);
+    height: 45px;
+    font-weight: bold;
+}
+
+.BBox {
+    margin-left: -60px;
+    padding: 5px;
+}
+
+.star {
+    width: 70px;
+    height: 30px;
+    font-size: 14px;
+    padding-top: 5px;
+    margin-left: -50px;
+}
+
+.star1 {
+    width: 60px;
+    height: 30px;
+    font-size: 14px;
+    padding: 5px;
+    margin-left: 0px;
+
+}
+
+.cartbutt {
+    width: 173px;
+    margin: 0px;
+    padding: 15px;
+    margin: 0px;
+    border-radius: 0px;
+    height: 60px;
+    background-color: black;
+    text-align: center;
+    border: 0px;
+}
+
+.CAP {
+    margin: 0px;
+}
+
+img {
+    width: 226px;
+}
+
+.THUMB {
+    border: 0px;
+}
+
+h4 {
+    text-align: center;
+}
+
+
+.TAG {
+    width: 84px;
+    height: 20px;
+    font-size: 10px;
+    position: absolute;
+    color: #ffffff;
+    background-color: black;
+    margin-left: 90px;
+    text-align: center;
+}
